@@ -1,0 +1,5 @@
+{
+  "name": "Director de Prompts",
+  "description": "Un constructor de prompts avanzado con IA que te ayuda a crear las instrucciones perfectas para modelos de generación de video e imagen como Veo, Kling y Gemini.",
+  "requestFramePermissions": []
+}
